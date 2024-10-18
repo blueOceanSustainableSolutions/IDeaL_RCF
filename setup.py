@@ -8,7 +8,7 @@ install_requires = [
     "gdown==5.2.0",
     "matplotlib==3.7.1",
     "polars==1.0.0",
-    "scikit-learn==1.2.2",
+    "scikit-learn==1.5.0",
     "tqdm==4.41.1",
     "typing_extensions==4.8.0"
 ]
